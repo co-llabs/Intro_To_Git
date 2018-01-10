@@ -1,7 +1,6 @@
-# Intro to Git
-
-
 <img align="right" src="images/git.png" alt="One does not simply understand git"/>
+
+# Intro to Git
 
 ## Description
 
