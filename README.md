@@ -9,9 +9,23 @@ advanced usage.
 
 ## Usage
 
+**__Disclaimer: This is built for running on Mac OS X and you must be slightly familiar with basic terminal commands.__**
+
 ### Install
 
-`npm install -g reveal-md`
+#### Dependencies
+
+__HomeBrew:__ Install from: https://brew.sh/
+
+__NPM:__ `brew install npm`
+
+__Reveal-MD:__ `npm install -g reveal-md`
+
+__Git:__ `brew install git`
+
+#### Downling the Project
+
+`git clone https://github.com/discreet/Intro_To_Git.git`
 
 ### Presenting
 
