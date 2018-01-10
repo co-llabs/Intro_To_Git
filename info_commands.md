@@ -102,6 +102,10 @@ repository.
 
 ![View Commit History](images/show_log_cmd.png)
 
+---
+
+## Querying the Log
+
 **__It is important to note that the `'git log'` command will also denote a
 merge commit from a regular commit.__**
 
