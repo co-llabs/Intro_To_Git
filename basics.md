@@ -45,7 +45,7 @@ _Working Directory:_ Consists of the actual files you are working on.
 ## The Git Workflow
 
 _Staging Area (Index):_ used for preparing commits. All changes that you want to
-commit are staged on the first. The index provides greater control over what
+commit are staged there first. The index provides greater control over what
 changes should be committed into the Repository.
 
 ---
