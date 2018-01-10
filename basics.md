@@ -58,7 +58,7 @@ _Object Store (Repository):_ Contains committed changes from the staging area.
 
 ## The Git Workflow
 
-![Git High Level Commands](/images/git-high-level-commands.png)
+![Git Workflow](images/git-high-level-commands.png)
 
 ---
 
