@@ -42,5 +42,5 @@ the upcoming slide.
 To change the default theme run the server with `--theme <theme name>`
 
 Available themes can be
-found[here](https://github.com/hakimel/reveal.js/tree/master/css/theme)
+found [here](https://github.com/hakimel/reveal.js/tree/master/css/theme)
 
